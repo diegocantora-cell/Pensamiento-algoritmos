@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Expresiones_3_7
 	Definir sqrt Como Numerica
     // Definir variables
