@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Expresiones_3_6
     // Definir variables
     Definir a, b, c, d, x, t, z, r, x1, y1, x2, y2 Como Real
