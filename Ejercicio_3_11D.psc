@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio_3_11
     Definir r1, r2, r3 Como Real
     Definir i1, i2, i3 Como Entero
