@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio_3_10
     Definir a, b, c, d, e, f, g, h Como Entero
     Definir t1, t2, t3 Como Entero
