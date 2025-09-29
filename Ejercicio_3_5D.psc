@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio_3_5
     Definir resultado, parte1, parte2 Como Real
 	
