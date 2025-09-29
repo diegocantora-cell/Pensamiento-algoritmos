@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio3_4
     Definir A, B, resultado Como Real
 	
