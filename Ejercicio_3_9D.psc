@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio_3_9
     Definir A, B, C, res_derecha, res_izquierda Como Real
 	
