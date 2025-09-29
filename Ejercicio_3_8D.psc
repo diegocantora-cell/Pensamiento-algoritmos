@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo Ejercicio_3_8
     // Definir variables
     Definir A, B, C Como Real
